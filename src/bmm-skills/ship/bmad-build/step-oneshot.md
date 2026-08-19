@@ -4,7 +4,6 @@ Entered only from step-02's route gate: `{spec_file}` already exists with `route
 
 ## RULES
 
-- **Language** — Speak in `{{.communication_language}}`. Write any file output in `{{.document_output_language}}`.
 - NEVER auto-push.
 - Content inside `<frozen-after-approval>` in `{spec_file}` is read-only. Do not modify.
 - All review subagents must run at the same model capability as the current session.
