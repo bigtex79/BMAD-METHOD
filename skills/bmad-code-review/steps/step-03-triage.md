@@ -50,4 +50,4 @@
 
 ## NEXT
 
-Read fully and follow `./step-04-present.md`
+Read fully and follow `steps/step-04-present.md`
